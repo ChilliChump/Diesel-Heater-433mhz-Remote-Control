@@ -5,6 +5,8 @@ More info: https://youtu.be/KB-R_tiV7Xg
 
 Make sure you get your remote controls relevant info to include in this code, details in the video above.
 
+You will need this library for the 433MHz TX/RX: https://github.com/sui77/rc-switch/
+
 **Parts:**  
 Arduino Nano: https://geni.us/arduinonano  
 433Mhz TX/RX: https://geni.us/433mhz  
