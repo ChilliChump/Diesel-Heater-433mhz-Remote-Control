@@ -1,7 +1,7 @@
 # dieselheater433mhz
 Interact with chinese diesel heaters using an Arduino/ESP32/ESP8266
 
-More info: https://youtu.be/KB-R_tiV7Xg
+More info: https://youtu.be/CjmtDrmTpPI
 
 Make sure you get your remote controls relevant info to include in this code, details in the video above.
 
