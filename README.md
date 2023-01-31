@@ -1,5 +1,5 @@
 # dieselheater433mhz
-Interact with chinese diesel heaters using an Arduino/ESP32/ESP8266
+Interact with Chinese diesel heaters using an Arduino/ESP32/ESP8266
 
 More info: https://youtu.be/CjmtDrmTpPI
 
@@ -13,6 +13,3 @@ Arduino Nano: https://geni.us/arduinonano
 DHT22 (w/pullup): https://geni.us/dht22_pullupinc  
 Latching Button: https://geni.us/latchbutton  
 Project Box: https://geni.us/pbox
-
-
-
