@@ -1,9 +1,9 @@
 # dieselheater433mhz
-Interact with chinese diesel heaters using an Arduino/ESP32/ESP8266
+Interact with Chinese diesel heaters using an Arduino/ESP32/ESP8266
 
 More info: https://youtu.be/CjmtDrmTpPI
 
-Make sure you get your remote controls relevant info to include in this code, details in the video above.
+Make sure to get your remote control's relevant info updated in this code, details in the video above.
 
 You will need this library for the 433MHz TX/RX: https://github.com/sui77/rc-switch/
 
@@ -13,6 +13,3 @@ Arduino Nano: https://geni.us/arduinonano
 DHT22 (w/pullup): https://geni.us/dht22_pullupinc  
 Latching Button: https://geni.us/latchbutton  
 Project Box: https://geni.us/pbox
-
-
-
